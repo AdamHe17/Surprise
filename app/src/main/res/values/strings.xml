@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Surprise</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="min">Min: $</string>
+    <string name="max">Max: $</string>
+    <string name="category">Category</string>
+    <string name="pr">Price Range</string>
+    <string name="next">Next</string>
+    <string name="prev">Previous</string>
+    <string name="title_activity_payment">Payment</string>
+    <string name="title_activity_store">StoreActivity</string>
+
+</resources>
